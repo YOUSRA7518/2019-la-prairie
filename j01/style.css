@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#footer-container {
+  margin-top: 70px;
+  height: 60px;
+  background: #ecf0f1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px 0 50px;
+  transform: translateY(600px);
+}
+#footer-container .footer-reseaux img {
+  margin-right: 25px;
+}
+td {
+  border: 1px solid black;
+}
